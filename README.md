@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## oi pessoal 👋 
+eu estou estudando alura 😄
+estou me desenvolvendo na linguagem JavaScript 💻
+e utilizo esse espaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvidos. 👌
+![](https://1drv.ms/i/c/1a893338b141292e/EVGx92NzSmNInzWZQa6-2cEBlJwpnlKjzZqyzC4vvHduDQ?e=s8tbqR)
 <!--
 **kheyek/kheyek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
